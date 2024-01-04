@@ -1,0 +1,13 @@
+body {
+	background-color: pink;
+	color: blueviolet;
+}
+
+.big-title {
+	font-size: 5rem;
+	text-decoration: underline;
+}
+
+.margin-50 {
+	margin: 50px;
+}
